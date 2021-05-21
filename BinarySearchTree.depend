@@ -1,5 +1,4 @@
 # depslib dependency file v1.0
-1621602065 source:e:\codeworkshop\codeblock\projectdsalg\binarysearchtree\main.cpp
-	<stack>
-	<bits/stdc++.h>
+1621608598 source:e:\codeworkshop\codeblock\projectdsalg\binarysearchtree\main.cpp
+	<iostream>
 
